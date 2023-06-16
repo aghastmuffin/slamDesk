@@ -1,0 +1,81 @@
+  ______   __                          _______                       __                                     
+ /      \ |  \                        |       \                     |  \                                    
+|  $$$$$$\| $$  ______   ______ ____  | $$$$$$$\  ______    _______ | $$   __             ______   __    __ 
+| $$___\$$| $$ |      \ |      \    \ | $$  | $$ /      \  /       \| $$  /  \           /      \ |  \  |  \
+ \$$    \ | $$  \$$$$$$\| $$$$$$\$$$$\| $$  | $$|  $$$$$$\|  $$$$$$$| $$_/  $$          |  $$$$$$\| $$  | $$
+ _\$$$$$$\| $$ /      $$| $$ | $$ | $$| $$  | $$| $$    $$ \$$    \ | $$   $$           | $$  | $$| $$  | $$
+|  \__| $$| $$|  $$$$$$$| $$ | $$ | $$| $$__/ $$| $$$$$$$$ _\$$$$$$\| $$$$$$\        __ | $$__/ $$| $$__/ $$
+ \$$    $$| $$ \$$    $$| $$ | $$ | $$| $$    $$ \$$     \|       $$| $$  \$$\      |  \| $$    $$ \$$    $$
+  \$$$$$$  \$$  \$$$$$$$ \$$  \$$  \$$ \$$$$$$$   \$$$$$$$ \$$$$$$$  \$$   \$$       \$$| $$$$$$$  _\$$$$$$$
+                                                                                        | $$      |  \__| $$
+                                                                                        | $$       \$$    $$
+                                                                                         \$$        \$$$$$$  
+Worse than javascript
+--
+What is SlamDesk, and why the fuck would I ever want to use it?
+-
+an interpreter designed in python, that converts code on a line by
+line basis back into python, with some other language support. for
+game designers looking for a challenge, to bored developers, one of the
+hardest syntax to master, SlamDesk.py makes brainfuck seem like a wet dream.
+Have fun!
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓DDDDDDDDDDDDD                                                              ▓▓   
+▓▓D::::::::::::DDD                                                           ▓▓   
+▓▓D:::::::::::::::DD                                                         ▓▓   
+▓▓DDD:::::DDDDD:::::D                                                        ▓▓   
+▓▓  D:::::D    D:::::D    ooooooooooo       cccccccccccccccc    ssssssssss   ▓▓   
+▓▓  D:::::D     D:::::D oo:::::::::::oo   cc:::::::::::::::c  ss::::::::::s  ▓▓  
+▓▓  D:::::D     D:::::Do:::::::::::::::o c:::::::::::::::::css:::::::::::::s ▓▓
+▓▓  D:::::D     D:::::Do:::::ooooo:::::oc:::::::cccccc:::::cs::::::ssss:::::s▓▓
+▓▓  D:::::D     D:::::Do::::o     o::::oc::::::c     ccccccc s:::::s  ssssss ▓▓
+▓▓  D:::::D     D:::::Do::::o     o::::oc:::::c                s::::::s      ▓▓
+▓▓  D:::::D     D:::::Do::::o     o::::oc:::::c                   s::::::s   ▓▓
+▓▓  D:::::D    D:::::D o::::o     o::::oc::::::c     cccccccssssss   s:::::s ▓▓
+▓▓DDD:::::DDDDD:::::D  o:::::ooooo:::::oc:::::::cccccc:::::cs:::::ssss::::::s▓▓
+▓▓D:::::::::::::::DD   o:::::::::::::::o c:::::::::::::::::cs::::::::::::::s ▓▓
+▓▓D::::::::::::DDD      oo:::::::::::oo   cc:::::::::::::::c s:::::::::::ss  ▓▓
+▓▓DDDDDDDDDDDDD           ooooooooooo       cccccccccccccccc  sssssssssss    ▓▓
+▓▓                                                                           ▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+This is a PURPOSEFULLY obscure docs! Have fun digging through pages of random information
+
+---
+To truly appreciate the intricate nature of the "+" symbol, we must first venture into the annals of history. The concept of addition, combining quantities to obtain a sum, has been an integral part of mathematics since ancient times. Early civilizations developed various notations and symbols to represent addition, but it was during the medieval period that the "+" symbol began to emerge.
+
+Derived from the Latin word "et," meaning "and," mathematicians sought a concise way to denote the act of adding numbers together. Inspired by the ligature symbol "&," which represented "and" in Latin, they started utilizing this symbol as a shorthand notation for addition. The "&" symbol, with its intertwining curves, captured the essence of combining quantities, and over time, it underwent transformations and variations in different regions.
+
+As mathematical ideas spread and evolved, so did the "+" symbol. Through centuries of refinement and standardization, the "+" symbol we recognize today came into being. Its adoption as the universal symbol for addition demonstrates the power of human ingenuity and the collective effort to establish a common mathematical language.
+
+The Intricate Behavior of "+" in Slamdesk
+Now, let us turn our attention to the eccentric world of Slamdesk and the intriguing manner in which it handles the "+" symbol. Slamdesk, true to its name, is a language that relishes in confounding its programmers with unexpected twists and turns. In the realm of Slamdesk, simplicity is an illusion, and complexity reigns supreme.
+
+In most programming languages, the "+" symbol serves as an arithmetic operator for adding numerical values. It takes two numbers and performs the addition operation, yielding their sum. However, Slamdesk diverges from this conventional path and introduces a distinct interpretation of the "+" symbol.
+
+In the realm of Slamdesk, the "+" symbol's behavior transforms when confronted with a variable in the equation. Rather than performing arithmetic addition, it assumes a role that might seem bewildering at first: that of a string concatenation operator. Brace yourself for this unexpected turn of events!
+
+Consider the following scenario: You have a variable named "a" assigned the value "hi." In typical programming languages, evaluating the expression "a + 2" would lead to a numeric addition, resulting in the value 3. However, in the intricate world of Slamdesk, the "+" symbol possesses a keen sense of observation. It recognizes the presence of a variable and deftly morphs into a concatenation operator.
+
+When confronted with the expression "a + 2" in Slamdesk, the cunning "+" symbol identifies the variable "a" and treats it as a string. It takes the non-variable operand, in this case, the number 2, and merges it with the string value of "a," resulting in the beguiling outcome of "hi2." The concatenation of the string "hi" with the number 2 illustrates Slamdesk's distinct interpretation of the "+" symbol.
+
+Navigating Slamdesk's Eccentricities
+For programmers accustomed to more traditional languages, Slamdesk's behavior might appear perplexing and confounding. It serves as a testament to the importance of understanding the intricacies of programming languages and their unique syntax.
+
+To master Slamdesk's eccentricities, programmers must embrace a mindset that thrives on deciphering unconventional behaviors. A comprehensive understanding of Slamdesk's rules and syntax is vital to avoid unintended outcomes. As with any language, thorough documentation and practice are key to overcoming the challenges posed by Slamdesk's idiosyncrasies.
+
+The Evolution of Mathematical Notation in Programming Languages
+The history of the "+" symbol in Slamdesk is a testament to the evolution of mathematical notation in programming languages. Programming languages, as tools for human expression, often draw inspiration from mathematics and its symbolic language. Through the years, different programming languages have adapted and expanded upon mathematical notation to suit the specific needs of software development.
+
+The behavior of the "+" symbol in Slamdesk exemplifies how programming languages can deviate from conventional mathematical interpretation to offer unique functionalities. While some languages adhere closely to mathematical conventions, others, like Slamdesk, explore alternative paths, embracing their own set of rules and syntax.
+
+Conclusion
+In conclusion, Slamdesk's interpretation of the "+" symbol reflects its penchant for defying expectations and embracing unconventional behaviors. Through a historical lens, we traced the origins of the "+" symbol in mathematics, starting from its Latin roots to its adoption as a universal symbol for addition.
+
+Slamdesk's interpretation of the "+" symbol deviates from traditional arithmetic addition and embraces string concatenation when a variable is involved. It showcases the importance of understanding the nuances of programming languages to navigate their idiosyncrasies successfully.
+
+As you embark on your journey into Slamdesk, armed with this knowledge, be prepared to explore its eccentricities and unravel its unique syntax. Through diligent study, practice, and a willingness to embrace the unexpected, you will conquer the challenges posed by Slamdesk's enigmatic nature.
+
+May your adventures in Slamdesk be filled with curiosity, discovery, and triumph as you unravel its secrets and master the art of coding in this captivating realm.
+
